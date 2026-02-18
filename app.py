@@ -336,9 +336,7 @@ def show_guide_dialog():
       </div>
     </div>
     <div class="modal-warning" style="margin-top:1.2rem;">
-      ⚠️ <strong>Perhatian:</strong> Model TCN ini telah diuji dan terbukti akurat untuk saham
-      <strong>BBRI.JK</strong>. Penggunaan pada kode saham lain belum diuji
-      sehingga akurasi prediksinya tidak dapat dijamin.
+      ⚠️ <strong>Perhatian:</strong> Sistem prediksi harga saham ini dikembangkan untuk keperluan akademik. Model yang digunakan masih bersifat eksperimental. Segala bentuk keputusan investasi yang diambil berdasarkan informasi dari sistem ini sepenuhnya menjadi tanggung jawab pengguna. Gunakan hasil prediksi secara bijak sebelum mengambil keputusan investasi
     </div>
     """, unsafe_allow_html=True)
 
