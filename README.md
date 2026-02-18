@@ -78,7 +78,7 @@ Model TCN yang digunakan memiliki parameter tetap sesuai hasil penelitian:
 
 ### Prasyarat
 - Python 3.10 atau lebih baru sudah terinstall
-- File `tcn_model.keras` sudah tersedia (lihat bagian [Menyiapkan File Model](#-menyiapkan-file-model))
+- File `tcn_model.keras` sudah tersedia dalam repo
 
 ### 1. Clone Repository
 
